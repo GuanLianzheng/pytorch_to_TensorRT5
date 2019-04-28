@@ -1,0 +1,2 @@
+# pytorch_to_TensorRT5
+通过pytorch搭建卷积神经网络完成手写识别任务，并将训练好的模型以多种方式部署到TensorRT中加速。
